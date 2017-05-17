@@ -1,5 +1,5 @@
 # Toontown-Evolution
-single player remake of Disney's Toontown Online
+ remake of Disney's Toontown Online that uses toontown infinite source
 
 # Current Team
 * Josh Zimmer- Founder and Main Developer of Toontown Evolution
